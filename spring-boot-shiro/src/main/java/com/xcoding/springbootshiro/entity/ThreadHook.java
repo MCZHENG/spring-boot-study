@@ -14,7 +14,7 @@ public class ThreadHook {
                 }catch (InterruptedException e){
                     e.printStackTrace();
                 }
-                System.out.println("threadhook 1 is exit ex");
+                System.out.println("threadhook 1 is exit");
             }
         });
         //可定义多个钩子线程
