@@ -30,6 +30,6 @@ public class ThreadHook {
                 System.out.println("threadhook 2 is exit");
             }
         });
-        System.out.println("threadhook is exit stoping.test");
+        System.out.println("threadhook is exit stoping.test321");
     }
 }
